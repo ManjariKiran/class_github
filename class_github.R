@@ -13,6 +13,8 @@ gitcreds::gitcreds_set()
 
 edit_git_config()
 
+print("hello")
+
 #dplyr functions
 library(dplyr)
 #Load in-built dataset mtcars 
