@@ -11,6 +11,8 @@ create_github_token()
 # Store the token
 gitcreds::gitcreds_set()
 
+edit_git_config()
+
 #dplyr functions
 library(dplyr)
 #Load in-built dataset mtcars 
